@@ -10,3 +10,4 @@ str
  code conclick5
  code conclick6
 add test1
+add test2

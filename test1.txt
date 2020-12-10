@@ -9,5 +9,3 @@ str
  code conclick4
  code conclick5
  code conclick6
-add test1
-add test2

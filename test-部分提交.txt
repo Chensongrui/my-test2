@@ -1,4 +1,5 @@
+addFunc1
 xxxx
+addFunc2
 xxxx
-addFunc3
 xxxx
